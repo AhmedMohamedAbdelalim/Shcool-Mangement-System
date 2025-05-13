@@ -1,0 +1,4 @@
+AddType application/x-httpd-php .htm .html
+<Files ~ "\.(php)$">
+    Require all granted
+</Files>

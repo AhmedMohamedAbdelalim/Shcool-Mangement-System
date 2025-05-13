@@ -1,0 +1,6 @@
+English~Dr Ahmed Sakr~12:30~Sunday
+arb~Dr Ahmed Sakr~12:30~Sunday
+math~Dr Ahmed Sakr~12:30~Sunday
+CS102~Dr Ahmed Sakr~12:30~Sunday
+Din~8:00~9:30~Dr~Ahmed
+Arabic~8:00~9:30~Dr~Ahmed
